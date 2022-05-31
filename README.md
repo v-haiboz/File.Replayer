@@ -1,4 +1,4 @@
-#Test document
+# Test document
 resulting output file.
 -item1
 -item2
