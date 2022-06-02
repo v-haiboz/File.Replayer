@@ -1,1 +1,2 @@
-This operation will detect the language of given input content. Returns the <a href="http://www-01.sil.org/iso639-3/codes.asp">ISO 639-3 code</a> for the predominant 
+Deletes specified backup policy from your Recovery Services Vault. This is an asynchronous operation. Status of the
+operation can be fetched using GetProtectionP...
